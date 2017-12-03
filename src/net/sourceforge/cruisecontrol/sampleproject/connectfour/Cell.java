@@ -41,7 +41,7 @@ package net.sourceforge.cruisecontrol.sampleproject.connectfour;
  */
 public class Cell {
 
-    int i=0;
+    //TODO: hggvjvvukvuvjvkgvkc
     private final int column;
     private final int row;
 
